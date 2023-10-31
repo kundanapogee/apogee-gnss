@@ -1,0 +1,228 @@
+/*@media only screen and (max-width: 1366px) {*/
+
+@media only screen and (min-width: 768px) and (max-width: 1140px){
+
+
+  /*.orderTwo{
+    order: 2;
+  }
+  .orderOne{
+     order: 1; 
+  }
+*/
+
+
+.tabPaadingY40{
+  padding: 40px 0;
+}
+
+
+.navbar-brand img{
+    width: 195px;
+}
+
+
+#top_list {
+    padding: 65px 0 0;
+}
+.aboutSec .large_inner {
+    max-width: calc(100% - 95px) !important;
+    margin: 0 auto;
+}
+
+
+#top_list .top_list_content .top_list_wrap {
+    position: absolute;
+    background-color: #fff;
+    top: 113px;
+    right: 40px;
+    max-width: 625px;
+    padding: 20px 25px;
+}
+#top_list .top_list_content .top_list_wrap .common_text {
+    margin-top: 10px;
+}
+.aboutSec .btn.blu_btn {
+    margin-top: 5px;
+}
+#top_list .top_list_content:before {
+    height: 355px;
+}
+#top_list .top_list_content {
+    position: relative;
+    margin-bottom: 175px;
+}
+
+
+.breadCrumbHead .overlayBlack .textwrap{
+    min-width: 100%;
+}
+.breadCrumbHead .overlayBlack .textwrap h1 {
+    font-size: 40px;
+}
+
+
+
+.fullProduct .productBox .productBoxInner h3 {
+    font-size: 16px;
+}
+.fullProduct .productBox .productBoxInner h2 {
+    font-size: 20px;
+    font-weight: 500;
+}
+.countSection .countBox h2 {
+    font-size:25px;
+    font-weight: 800;
+    line-height: 1;
+}
+.fullProduct .productBox .productBoxInner .mainPara {
+    font-size: 16px;
+    line-height: 1.3;
+    color: #fff;
+}
+
+
+
+
+.lessWidthNineFifty {
+    width: 100%;
+}
+.bigPara {
+    font-size: 16px;
+}
+.headerText h2 {
+    font-weight: 600;
+    margin-bottom: 25px;
+}
+.sectionPadding {
+    padding: 40px 0;
+}
+
+
+
+.sectionHead .contentWrap {
+     position: relative; 
+     transform: translateY(0%); 
+     top: 0%; 
+}
+.fullProductDet .productBox .productBoxInner{
+    padding: 0 0px;
+}
+.fullProductDet .productBox .productBoxInner h3 {
+    font-size: 17px;
+}
+.fullProductDet .productBox .productBoxInner h2 {
+    font-size: 26px;
+    font-weight: 600;
+}
+.sectionHead .textWrap p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 0;
+}
+
+
+
+.mobileMenu .dropdown-menu {
+    right: 0;
+    left: auto;
+}
+.becomeDealerSectionFirst #leftSide .leftSideInner h2 {
+    font-size: 26px;
+    font-weight: 600!important;
+}
+.becomeDealerSectionFirst #leftSide .leftSideInner {
+    background-color: #fff;
+    padding: 30px 30px;
+    margin-top: 40px;
+}
+.becomeDealerSectionFirst #rightImg {
+    width: 200px;
+    height: 310px;
+    object-fit: cover;
+}
+
+
+.contactPage .rightSide {
+    min-width: 100%;
+    margin-left: -0px;
+}
+.contactPage .rightSide .rightSideInner{
+  margin-top: 0;
+}
+.contactBtn {
+    white-space: nowrap;
+}
+.contactPage .container {
+    background-color: transparent; 
+    padding: 0;
+}
+.addressSection {
+  margin-top: 30px;
+}
+.contactBtn {
+    padding: 5px 20px;
+}
+.fullProduct .productBox .productBoxInner {
+    /*padding: 0 0px;*/
+    padding: 10% 0px 0px 9px;
+}
+.fullProduct .productBox .bgOverLay {
+    padding: 0px 0px;
+}
+.sectionHead h2 {
+    font-size: 26px;
+}
+.sectionHead h2::before {
+    bottom: -12px;
+}
+.sectionHead .textWrap {
+    margin-top: 24px;
+}
+.sectionHead .textWrap .exploreBtnWrap{
+    margin-top: 15px;
+}
+.specificationSection .tableHead h3 {
+    font-size: 18px;
+}
+
+
+.industries .boxRight .topRight {
+    transform: translateY(30%);
+}
+.industries .boxRight .bottomRight{
+    padding: 60px 15px;
+}
+
+
+
+.slidertext3 p{
+    font-size: 17px!important;
+    font-weight: 300!important;
+    line-height: 1.5!important;
+}
+.agreecultureTypeSection h4 {
+    font-size: 16px;
+}
+
+
+
+
+
+}
+
+
+
+@media only screen and (min-width: 1024px) and (max-width: 1100px){
+
+
+    .fullProduct .productBox .productBoxInner {
+        padding: 15% 0px 0px 9px;
+    }
+    .fullProduct .productBox {
+        margin-bottom: 40px;
+    }
+
+
+
+}

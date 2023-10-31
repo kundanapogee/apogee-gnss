@@ -1,0 +1,934 @@
+@media only screen and (max-width: 600px) {
+
+
+
+
+
+
+.orderTwo{
+  order: 2;
+
+}
+.orderOne{
+   order: 1; 
+}
+
+
+
+/*body{
+    background-color: #f2f2f2;
+}
+*/
+
+
+.mobileMenu{
+    height: 60px;
+}
+.mobileListWrap{
+    left: -10px!important;
+    right: -10px!important;
+}
+
+.sectionPadding {
+    padding: 40px 0;
+}
+
+
+
+
+
+
+.navbar-brand img{
+    width: 195px;
+}
+
+
+  .slidertext_hover{
+
+   margin-top: 0;
+
+   font-size: 13px!important;
+
+}
+
+.slidertext2{
+
+   margin-top: 28px;
+
+   font-size: 30px!important;
+
+}
+
+.slidertext3 p{
+
+    width: 200px!Important;
+
+    font-size: 11px!important;
+
+    word-break: break-all!important;
+
+    word-wrap: break-word!important;
+
+    margin-top: 65px;
+
+    color: #fff;
+
+    line-height: 1.6!important;
+
+}
+
+.slidertext4{
+
+      margin-top: 130px;
+
+}
+
+.slidertext4 a{
+
+   font-size: 10px!important;
+
+}
+
+.slidertext4 a:nth-child(1){
+
+   border: 2px solid #fff;
+
+}
+
+.mobileMarginLeft{
+
+   margin-left:15px!important;
+
+}
+
+
+
+
+
+
+
+
+
+.preloaderImg{
+    width: 36px!important;
+    margin-top: -2px;
+}
+
+
+
+
+
+.sliderVideoMain video{
+    width: 100%;
+}
+.sliderVideoMain .contentWrap h1 {
+    margin-top: 6px;
+    font-size: 41px;
+    font-weight: 700;
+}
+.sliderVideoMain .contentWrap .spsLine {
+    font-size: 15px;
+}
+.sliderVideoMain .contentWrap .para {
+    margin-top: 3px;
+    color: #fff;
+    font-size: 14px;
+    line-height: 1.5;
+    display: none;
+}
+.sliderVideoMain .btnWrap {
+    display: none;
+}
+.sliderVideoMain .contentWrap h4 {
+    font-size: 17px;
+}
+
+
+
+
+
+
+
+
+#top_list {
+
+    padding: 70px 0 0;
+
+}
+
+.large_inner {
+
+    max-width: calc(100% - 20px) !important; 
+
+    margin: 0 auto;
+
+}
+
+#top_list .top_list_content:before{
+
+  display: none;
+
+}
+
+#top_list .top_list_content img {
+
+     max-width: 100%; 
+
+     width: 100%; 
+
+}
+
+#top_list .top_list_content img.img-thumbnail {
+
+    padding: 0;
+
+    background-color: transparent;
+
+    border: 0px solid transparent;
+
+    border-radius: 0rem;
+
+    max-width: 100%;
+
+    height: auto;
+
+}
+
+#top_list .top_list_content .top_list_wrap {
+
+    position: absolute;
+
+    background-color: #fff;
+
+    top: 200px;
+
+    right: 0px; 
+
+    max-width: 625px;
+
+    padding: 14px 17px;
+
+    box-shadow: 0 8px 29px rgb(12 33 195 / 20%);
+
+    -webkit-box-shadow: 0 8px 29px rgb(12 33 195 / 20%);
+
+    -moz-box-shadow: 0 8px 29px rgba(12,33,195,0.2);
+
+    -ms-box-shadow: 0 8px 29px rgba(12,33,195,0.2);
+
+    -o-box-shadow: 0 8px 29px rgba(12,33,195,0.2);
+
+    box-sizing: border-box;
+
+    -webkit-box-sizing: border-box;
+
+    -moz-box-sizing: border-box;
+
+    -ms-box-sizing: border-box;
+
+    -o-box-sizing: border-box;
+
+}
+
+#top_list .top_list_content .top_list_wrap .common_text {
+
+    margin-top: 8px;
+
+}
+
+.aboutSec .btn.blu_btn {
+
+    margin-top: 7px;
+
+    margin-bottom: 7px;
+
+}
+
+#top_list .top_list_content {
+
+    position: relative;
+
+    margin-bottom: 312px;
+
+}
+
+
+
+
+
+
+
+
+
+.fullProduct .productBox .productBoxInner h2 {
+
+    font-size: 22px;
+
+    font-weight: 700;
+
+}
+
+/*.fullProduct .productBox img {
+
+    width: 157px;
+
+}*/
+
+.fullProduct .productBox .productBoxInner {
+
+    padding: 0 0px;
+
+     margin-top: 0px; 
+
+     text-align: center;
+
+}
+
+
+
+.productSliderSection {
+    margin-top: 351px;
+    background-color: #01142a;
+    padding: 40px 0;
+}
+.productSliderSection .card-header img {
+    border-radius: 4px 4px 0 0;
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.sectionHead .contentWrap {
+
+     position: relative; 
+
+     transform: translateY(0%); 
+
+    top: 0%;
+
+}
+.sectionHead .contentWrap h2{
+    font-size: 25px;
+    line-height: 1.4;
+}
+.sectionHead .textWrap p {
+    font-size: 16px;
+    line-height: 1.8;
+}
+
+.sectionHead .contentWrap .textWrap{
+    margin-top: 33px;
+}
+
+.fullProduct .productBox .productBoxInner h3 {
+
+    font-size: 18px;
+
+}
+
+.fullProduct .productBox .productBoxInner h2 {
+
+    font-size: 22px;
+
+    line-height: 1.4;
+
+    font-weight: 600;
+
+}
+
+.fullProduct .productBox .productBoxInner .mainPara {
+
+  font-size: 15px;
+
+  line-height: 1;
+
+}
+
+.fullProduct .productBox img.radioMobile{
+
+  width: 306px;
+
+}
+
+
+
+
+
+
+
+
+
+.industries .bottom h2 {
+
+    font-size: 20px;
+
+}
+
+.industries .bottom p {
+
+    font-size: 13px;
+
+    margin-bottom: 0;
+
+}
+
+.industries.sectionPadding .col-md-6{
+
+  padding: 0 15px!important;
+
+}
+
+.industries .top {
+
+    position: absolute;
+
+  top: 50%;
+
+  left: 50%;
+
+  transform: translate(-50%, -50%);
+
+}
+
+.industries .bottom {
+
+    position: absolute;
+
+  top: 50%;
+
+  left: 50%;
+
+  transform: translate(-50%, -50%);
+
+  width: 95%;
+
+}
+
+.industries .box {
+
+    height: 250px;
+
+    padding: 0 25px;
+
+    /*margin-bottom: 25px;*/
+
+    border: 1px solid #f2f2f2;
+
+    position: relative;
+
+}
+
+.industries .box img {
+
+    width: 60px!important;
+
+}
+
+.industries h3 {
+
+    font-size: 16px;
+
+}
+
+.exploreBtn {
+
+    padding: 5px 16px;
+
+}
+
+
+
+
+
+
+
+
+.sliderVideoMain .contentWrap h4 {
+    font-size: 16px;
+    margin-bottom: 0;
+}
+.sliderVideoMain .contentWrap h2 {
+    font-size: 10px;
+    margin-top: 11px;
+}
+.sliderVideoMain .contentWrap h1 {
+    font-size: 23px;
+}
+.sliderVideoMain .contentWrap .spsLine {
+    font-size: 13px;
+}
+
+
+
+
+
+.countSection .countBox {
+
+    padding: 25px 25px;
+
+    margin-bottom: 25px;
+
+}
+
+.countSection .countBox h2 {
+
+    font-size: 40px;
+
+}
+
+
+
+
+
+
+
+
+
+.videoSection .bg-video-wrap video {
+    height: 200px;
+}
+.videoSection .youtubeVideo{
+    width: 300px!important;
+    height: 170px!important;
+}
+
+
+footer .footerLogo {
+
+     margin-top: 0px; 
+
+}
+
+footer .footerLogo img{
+
+    width: 100px;
+
+}
+
+footer .isoWrap p{
+
+    font-size:13px;
+
+    font-weight: 500;
+
+}
+
+footer .isoWrap p img{
+
+    width: 20px;
+
+}
+
+
+
+
+
+
+
+.breadCrumbHead .overlayBlack {
+
+    background-color: rgba(0, 0, 0, 0.7);
+
+    height: 161px;
+
+    position: relative;
+
+}
+
+.breadCrumbHead .overlayBlack .textwrap h1 {
+    font-size: 28px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.breadCrumbHead .overlayBlack .textwrap ul li, .breadCrumbHead .overlayBlack .textwrap ul li a {
+    font-size: 13px;
+}
+
+.breadCrumbHead .overlayBlack .textwrap {
+    top: 57%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+
+
+.lessWidthNineFifty {
+
+    width: 100%;
+
+}
+
+.bigPara {
+
+    font-size: 16px;
+
+    line-height: 1.8;
+
+}
+
+.valueSection .productList ul li{
+
+    font-size: 16px;
+
+}
+
+.valueSection .productList ul li:before {
+
+    left: -24px;
+
+    top: 9px;
+
+    font-size: 17px;
+
+}
+
+.bottomTopBtn {
+
+    right: 0px!important;
+
+    bottom: 20px
+
+}
+.sectionHead h2.yellow::before{
+    right: 0;
+    margin: 0 auto;
+}
+
+.loginRegister .leftSide {
+    margin: 0 15px;
+   }
+  .loginRegister .formWrap {
+       width: 100%;
+   }
+   .loginRegister .leftSide .leftSideInner .boxWrap {
+    margin: 40px 0;
+}
+
+
+.searchSection .sectionPadding{
+    padding-bottom: 37px;
+}
+.searchSection .searchWrap{
+    width: 100%;
+    padding: 0 15px;
+}
+.searchSection .searchWrap input{
+    padding: 19px 10px;
+}
+.searchSection .searchWrap button{
+    padding: 5px 12px;
+    font-weight: 500;
+}
+.downloadFirstSec .downloadWrap{
+    margin-top: 15px;
+}
+.downloadFirstSec .downloadWrap:hover img:nth-child(2) {
+    margin: 0 auto;
+}
+.downloadFirstSec .leftSide {
+    text-align: center;
+}
+.downloadFirstSec .downloadWrap img{
+    display: block;
+    margin: 0 auto;
+}
+
+
+
+
+
+.breadBotSec {
+    margin-top: 41px;
+}
+.breadBotSec .flipWrap.otherColor {
+    margin-bottom: 25px;
+}
+.contactPage .rightSide {
+    min-width: 100%!important;
+    margin-left: auto;
+}
+.contactPage .rightSide .rightSideInner {
+    padding: 0;
+}
+.contactPage .borderBox {
+    padding: 20px 15px;
+}
+
+
+
+.fullProductDet .productBox .productBoxInner h3 {
+    font-size: 20px;
+}
+.fullProductDet .productBox .productBoxInner h2{
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 1.4;
+}
+.productList ul li {
+    font-size: 14px;
+}
+.fullProductDet .productBox img {
+    width: 100%!important;
+}
+
+
+
+
+
+.detailPointSec .headText h2 {
+    font-size: 20px;
+    line-height: 1.3;
+}
+.detailPointSec .textParaWrap p {
+    font-size: 15px;
+    line-height: 27px;
+}
+.surveySection h2 {
+    font-size: 35px;
+}
+.surveySection p {
+    font-size: 17px;
+    line-height: 1.8;
+}
+.surveySection .imgBoxWrap {
+    margin-top: 5px;
+}
+.surveySection .imgBoxWrap img:nth-child(1) {
+    width: 100%;
+    height: 178px;
+    object-fit: cover;
+}
+
+
+
+
+.fullProduct .productBox .bgOverLay{
+    padding: 30px 0px 60px;
+}
+.specificationSection h2 {
+    font-size: 34px;
+}
+.fullProduct .productBox img {
+    width: 76%;
+}
+.fullProduct .productBox .productBoxInner .mainPara {
+    line-height: 1.5;
+}
+
+
+
+
+.becomeDealerSectionFirst {
+    height: auto;
+}
+.becomeDealerSectionFirst #leftSide .leftSideInner {
+     background-color: transparent; 
+     padding: 0px; 
+    margin-top: 0px;
+}
+.becomeDealerSectionFirst #leftSide {
+    width: 100%;
+     position: relative; 
+}
+.becomeDealerSectionFirst .rightSide {
+     position: relative; 
+     z-index: 1; 
+     left: 0%; 
+}
+.becomeDealerSectionFirst #rightImg {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+
+.becomeDealerSectionFirst .mainBox {
+    margin-top: 40px;
+}
+.findMapSection .myLocation{
+    flex-direction: column;
+    text-align: center;
+}
+.becomeDealerSectionFirst #leftSide {
+    position: relative;
+     left: 0%; 
+}
+
+
+
+.breadBotSec .flip-box {
+    width: 100%;
+}
+.breadBotSec .flipWrap.otherColor h2{
+    font-size: 17px;
+}
+.breadBotSec .flipWrap.otherColor p {
+    font-size: 14px;
+}
+.breadBotSec .flipWrap p{
+    font-size: 14px;
+}
+.contactPage .container {
+    padding: 30px 15px;
+}
+.addressSection .addressBox ul li a {
+    font-size: 14px;
+}
+
+
+
+.slidertext3{
+    margin-top: 5px;
+}
+
+.becomeDealerCallSec .becomeDealerWrap{
+    margin: 26px auto 0;
+}
+.becomeDealerCallSec h2{
+    font-size: 21px;
+}
+
+.videoSection .leftSide{
+   width: 100%;
+   padding: 15px;
+}
+.videoSection .leftSide h2{
+   font-weight: 800;
+   font-size: 46px;
+}
+.videoSection .leftSide P{
+   font-size: 19px;
+   line-height: 2;
+}
+
+
+
+.careerSection .leftSide {
+    padding: 40px 0;
+}
+.careerSection .leftSide .contentWrap {
+    width: 100%;
+    padding: 0 15px;
+    margin: auto;
+}
+
+
+
+
+
+
+.careerSection .rightSide .rightSideInner {
+    position: absolute;
+    background-color: #0875DC;
+    text-align: center;
+    padding: 0px 30px;
+    width: 100%!important;
+    display: flex;
+    margin: 0;
+    justify-content: space-between;
+    bottom: 0;
+}
+.careerSection .rightSide .rightSideInner .iconWrap {
+    margin: 15px 0;
+    width: 100px;
+}
+.careerSection .rightSide .rightSideInner .content p {
+    font-size: 13px;
+    line-height: 1.4;
+    margin-bottom: 0;
+}
+.careerSection .rightSide img {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+.careerSection .rightSide .rightSideInner i {
+    font-size: 25px;
+    color: #fff;
+}
+.careerSection .rightSide .rightSideInner .content h4 {
+    font-size: 14px;
+}
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 300px) {
+    .headerText h2 {
+        font-size: 23px;
+        margin-bottom: 20px;
+    }
+    .breadBotSec .flipWrap {
+        background-color: #0875DC;
+        padding: 20px;
+        height: 178px;
+    }
+    .breadBotSec .flipWrap.otherColor p {
+        font-size: 13px;
+    }
+    .breadBotSec .flipWrap p {
+        font-size: 13px;
+    }
+    .contactPage .imgLeft{
+        display: none;
+    }
+    .contactPage.sectionPadding{
+        padding: 25px 0;
+    }
+    .contactPage .rightSide .rightSideInner {
+        margin-top: 0px;
+    }
+    .addressSection.sectionPadding{
+        padding: 0 0;
+    }
+    .addressBox h5{
+        font-size: 17px;
+    }
+    .contactPage .borderBox h3 {
+        font-size: 25px;
+        font-weight: 600!important;
+    }
+    footer .firstfootList li a{
+        font-size: 16px;
+    }
+    footer .footerTop .footHeader {
+        font-size: 16px;
+    }
+    .addressSection .mainAddress .addressBox {
+        min-height: 150px;
+    }
+    .addressSection .addressBox {
+        min-height: 110px;
+    }
+
+
+
+
+
+}
